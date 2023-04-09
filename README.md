@@ -2,7 +2,8 @@
 - 👀 I’m interested in ..Java. Science  Engineering and Physics 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... here or shoot an email my way at Natemina@gmail.com 
+- 📫 How to reach me ... here or shoot an email my way at furtheraptitudes@gmail.com
+- WhatsApp
 
 <!---
 natemina/natemina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
